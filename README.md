@@ -66,10 +66,6 @@ This project was created as part of **MLH Global Hack Week** and contributes to 
 
 GitHub Copilot was used to assist with development, code suggestions, and implementation of the gameplay mechanics.
 
-### ✅ Introduction to GitHub
-
-This project was built using GitHub for version control, repository management, and collaboration workflows.
-
 ### ✅ Use GitHub Copilot to Complete Any of This Week's Challenges
 
 GitHub Copilot was used throughout the development process to accelerate coding, generate ideas, and improve productivity while completing challenge requirements.
